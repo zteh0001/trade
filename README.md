@@ -1,0 +1,2 @@
+# trade
+Young Trading Model
